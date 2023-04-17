@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = florian.contant@ymail.com
+	name = Florian Contant
